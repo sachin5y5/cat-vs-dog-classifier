@@ -23,3 +23,4 @@ WORKING ON JUPYTER NOTEBOOK FOR ANALIZING AND GIVING RESPONSE FOR IMAGE
 #step 2:-
 
 In this step just analysize the image and files and then give decision that the given image is dog or cat.
+and and at last if in array code returns array([[1.]] it means it is Dog else Cat
